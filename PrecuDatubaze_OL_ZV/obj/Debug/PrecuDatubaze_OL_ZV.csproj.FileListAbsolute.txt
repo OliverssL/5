@@ -1,0 +1,16 @@
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\PrecuDatubaze_OL_ZV.exe.config
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\PrecuDatubaze_OL_ZV.exe
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\PrecuDatubaze_OL_ZV.pdb
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\EntityFramework.dll
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\EntityFramework.SqlServer.dll
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\System.Data.SQLite.dll
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\System.Data.SQLite.EF6.dll
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\System.Data.SQLite.Linq.dll
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\EntityFramework.xml
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\EntityFramework.SqlServer.xml
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\bin\Debug\System.Data.SQLite.xml
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.csprojAssemblyReference.cache
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.csproj.CoreCompileInputs.cache
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.csproj.CopyComplete
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.exe
+Z:\PrecuDatubaze_OL_ZV\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.pdb
