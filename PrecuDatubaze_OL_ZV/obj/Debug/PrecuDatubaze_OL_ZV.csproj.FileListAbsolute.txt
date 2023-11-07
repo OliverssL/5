@@ -30,3 +30,6 @@ C:\Users\olive\OneDrive\Dokumenti\GitHub\Skaistumkopsanas_Salons\PrecuDatubaze_O
 C:\Users\olive\OneDrive\Dokumenti\GitHub\Skaistumkopsanas_Salons\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.csproj.CopyComplete
 C:\Users\olive\OneDrive\Dokumenti\GitHub\Skaistumkopsanas_Salons\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.exe
 C:\Users\olive\OneDrive\Dokumenti\GitHub\Skaistumkopsanas_Salons\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.pdb
+C:\Users\olive\OneDrive\Dokumenti\GitHub\Skaistumkopsanas_Salons\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.Form2.resources
+C:\Users\olive\OneDrive\Dokumenti\GitHub\Skaistumkopsanas_Salons\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.Form3.resources
+C:\Users\olive\OneDrive\Dokumenti\GitHub\Skaistumkopsanas_Salons\PrecuDatubaze_OL_ZV\obj\Debug\PrecuDatubaze_OL_ZV.csproj.GenerateResource.cache
