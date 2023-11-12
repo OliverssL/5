@@ -56,6 +56,7 @@ namespace PrecuDatubaze_OL_ZV
             this.Pierakstīties.TabIndex = 11;
             this.Pierakstīties.Text = "Konekcija datu ielasīšana";
             this.Pierakstīties.UseVisualStyleBackColor = true;
+            this.Pierakstīties.Click += new System.EventHandler(this.Pierakstīties_Click);
             // 
             // button2
             // 

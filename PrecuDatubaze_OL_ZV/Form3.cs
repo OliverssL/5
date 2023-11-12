@@ -52,7 +52,7 @@ namespace PrecuDatubaze_OL_ZV
 
             SQLiteCommand sqlite_cmd;
             sqlite_cmd = sqlite_conn.CreateCommand();
-            sqlite_cmd.CommandText = "SELECT * FROM Vards";
+            sqlite_cmd.CommandText = "SELECT * FROM Klients";
 
             DataTable sTable;
             SQLiteDataAdapter sqlda = new SQLiteDataAdapter(sqlite_cmd);
@@ -74,7 +74,7 @@ namespace PrecuDatubaze_OL_ZV
                 SQLiteCommand sqlite_cmd;
                 sqlite_cmd = sqlite_conn.CreateCommand();
                 sqlite_cmd.CommandText = "DELETE FROM Klients WHERE ID=" + textBox2.Text;
-                sqlite_cmd.ExecuteNonQuery();
+                
                 textBox2.Clear();
             }
             else

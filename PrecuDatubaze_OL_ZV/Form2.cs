@@ -22,7 +22,7 @@ namespace PrecuDatubaze_OL_ZV
         static SQLiteConnection CreateConnection()
         {
             SQLiteConnection sqlite_conn = null;
-            sqlite_conn = new SQLiteConnection("Data Source=Precu_Datubaze_OL_ZV.db; Version=3; New=True; Compress=True;");
+            sqlite_conn = new SQLiteConnection("Data Source=Precu_Datubaze.db; Version=3; New=True; Compress=True;");
 
             try
             {
@@ -46,13 +46,9 @@ namespace PrecuDatubaze_OL_ZV
                     sqlite_conn = CreateConnection();
                     SQLiteCommand sqlite_cmd;
                     sqlite_cmd = sqlite_conn.CreateCommand();
-                    sqlite_cmd.CommandText = "INSERT INTO Vards (Vards, Uzvards, Tel_numurs, Pers_kods) VALUES (@Vards, @Uzvards, @Tel_numurs, @Pers_kods)";
-                    sqlite_cmd.Parameters.AddWithValue("@Vards", Vards.Text);
-                    sqlite_cmd.Parameters.AddWithValue("@Uzvards", Uzvards.Text);
-                    sqlite_cmd.Parameters.AddWithValue("@Tel_numurs", Tel_numurs.Text);
-                    sqlite_cmd.Parameters.AddWithValue("@Pers_kods", Pers_kods.Text);
-
-                    sqlite_cmd.ExecuteNonQuery();
+                    sqlite_cmd.CommandText = "INSERT INTO Klients (Vards, Uzvards, Tel_numurs, Pers_kods, Pers_ID) VALUES (@Vards, @Uzvards, @Tel_numurs, @Pers_kods, Pers_ID)";
+         
+                   
                 }
                 else
                 {
@@ -93,6 +89,16 @@ namespace PrecuDatubaze_OL_ZV
         }
 
         private void Vards_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Pers_ID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form2_Load_1(object sender, EventArgs e)
         {
 
         }
